@@ -1,3 +1,4 @@
 nba-api
 streamlit
 matplotlib
+seaborn
